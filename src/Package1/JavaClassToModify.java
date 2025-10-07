@@ -11,5 +11,9 @@ public class JavaClassToModify {
 		//	We are observing the git / github benefits
 
 	}
+	
+	public void FunctionBranch() {
+		//This change is develop branch scope
+	}
 
 }
