@@ -4,6 +4,8 @@ public class JavaClassToModify {
 
 	public static void main(String[] args) {
 		//This is an initial update
+		
+		//This is an update from the clone repository
 
 	}
 
