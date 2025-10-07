@@ -6,6 +6,9 @@ public class JavaClassToModify {
 		//This is an initial update
 		
 		//This is an update from the clone repository
+		
+		// This is an update from regular repository  
+		//	We are observing the git / github benefits
 
 	}
 
